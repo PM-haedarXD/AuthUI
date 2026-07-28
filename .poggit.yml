@@ -1,0 +1,14 @@
+name: AuthUI
+version: 2.0.9
+api: 5.0.0
+author: haedarXD
+description: Secure authentication plugin with beautiful UI forms
+
+projects:
+  AuthUI:
+    path: ""
+    model: default
+    libs:
+      - src: jojoe77777/FormAPI/libFormAPI
+        version: ^2.1.1
+...
