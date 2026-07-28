@@ -13,30 +13,6 @@
 
 </div>
 
----
-
-## 📸 Gallery
-
-<p align="center"><em>Click any image to view full size</em></p>
-
-<p align="center">
-  <a href="screenshots/1.jpg"><img src="screenshots/1.jpg" width="180" style="border-radius:12px; margin:5px;" alt="Login Menu"></a>
-  <a href="screenshots/2.jpg"><img src="screenshots/2.jpg" width="180" style="border-radius:12px; margin:5px;" alt="Register Form"></a>
-  <a href="screenshots/3.jpg"><img src="screenshots/3.jpg" width="180" style="border-radius:12px; margin:5px;" alt="Change Password"></a>
-  <a href="screenshots/4.jpg"><img src="screenshots/4.jpg" width="180" style="border-radius:12px; margin:5px;" alt="Frozen Player"></a>
-  <a href="screenshots/5.jpg"><img src="screenshots/5.jpg" width="180" style="border-radius:12px; margin:5px;" alt="Login Success"></a>
-</p>
-
-<p align="center">
-  🔑 Login &nbsp;|&nbsp;
-  📝 Register &nbsp;|&nbsp;
-  🔄 Change Password &nbsp;|&nbsp;
-  ❄️ Frozen &nbsp;|&nbsp;
-  ✅ Success
-</p>
-
----
-
 ## 📖 Overview
 
 > **AuthUI** protects your server with a modern UI-based authentication system. Players register and login through interactive forms — no commands needed.
