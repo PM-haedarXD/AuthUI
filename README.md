@@ -154,9 +154,3 @@ AuthUI/
 MIT — Free to use, modify, and distribute.
 
 </div>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ for the PocketMine community</sub>
-</div>
