@@ -1,0 +1,9 @@
+name: AuthUI
+version: 2.0.9
+main: haedarXD\Main
+api: 5.0.0
+author: haedarXD
+
+depend:
+  - FormAPI
+  - PersianManager
