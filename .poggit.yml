@@ -8,6 +8,9 @@ projects:
   AuthUI:
     path: ""
     model: default
+    icon: ""
+    lint: false
+    compressBuilds: false
     libs:
       - src: jojoe77777/FormAPI/libFormAPI
         version: ^2.1.1
