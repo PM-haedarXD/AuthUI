@@ -86,8 +86,7 @@ Kicks player if not authenticated within 20 minutes.
 
 | Plugin | Required | Link |
 |--------|:-------:|------|
-| FormAPI | ✅ Yes | <a href="https://github.com/jojoe77777/FormAPI">GitHub</a> |
-| PersianManager | ❌ No | Optional |
+| FormAPI | ✅ Yes | <a href="https://github.com/jojoe77777/FormAPI">GitHub</a> 
 
 ---
 
